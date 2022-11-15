@@ -1,0 +1,142 @@
+{
+    "Users": [
+      {
+        "userName": "Rao kashif",
+        "email": "raokashif916@gmail.com",
+        "password": "123456",
+        "id": 1
+      },
+      {
+        "userName": "Muhammad Kashif",
+        "email": "raokashif926@gmail.com",
+        "password": "123",
+        "id": 2
+      },
+      {
+        "userName": "Haroon",
+        "email": "haroon916@gmail.com",
+        "password": "12534654",
+        "id": 3
+      },
+      {
+        "userName": "Karam",
+        "email": "karam234@gmail.com",
+        "password": "35357",
+        "id": 4
+      },
+      {
+        "userName": "Kabeer",
+        "email": "kabeer@.com",
+        "password": "346478",
+        "id": 5
+      },
+      {
+        "userName": "Muhammad Atif",
+        "email": "atif@gmail.com",
+        "password": "3436",
+        "id": 6
+      },
+      {
+        "userName": "Nouman",
+        "email": "nouman90@gmail.com",
+        "password": "123",
+        "id": 7
+      }
+    ],
+    "userData": [
+      {
+        "userName": "Rao kashif",
+        "email": "kashif916@gmail.com",
+        "contact": 45657577,
+        "age": 22,
+        "address": "Lahore",
+        "id": 1
+      },
+      {
+        "userName": "Muhammad Haroon",
+        "email": "haroon4566@gmail.com",
+        "age": 30,
+        "address": "kasur",
+        "id": 3
+      },
+      {
+        "userName": "Nouman",
+        "email": "nouman@gmail.com",
+        "contact": 3253466,
+        "age": 25,
+        "address": "lahore",
+        "id": 5
+      },
+      {
+        "userName": "Muhammad Atif",
+        "email": "atif@gmail.com",
+        "age": 31,
+        "address": "lahore",
+        "id": 6
+      },
+      {
+        "userName": "Muhammad Asif",
+        "email": "asif@gmail.com",
+        "contact": 323364758,
+        "age": 29,
+        "address": "Raiwind",
+        "id": 9
+      },
+      {
+        "userName": "Muhammad Aqib",
+        "email": "aqib@gmail.com",
+        "contact": 346457568,
+        "age": 22,
+        "address": "Raiwind",
+        "id": 10
+      },
+      {
+        "userName": "Rao Ajmal",
+        "email": "ajmal@gmail.com",
+        "contact": 35346457,
+        "age": 27,
+        "address": "kasur",
+        "id": 11
+      },
+      {
+        "userName": "Zahid",
+        "email": "zahid@gmail.com",
+        "contact": 32557457,
+        "age": 30,
+        "address": "kasur",
+        "id": 12
+      },
+      {
+        "userName": "Umair",
+        "email": "umair@gmail.com",
+        "contact": 2353567,
+        "age": 28,
+        "address": "kasur",
+        "id": 13
+      },
+      {
+        "userName": "Raheel",
+        "email": "raheel@gmail.com",
+        "contact": 457568568,
+        "age": 24,
+        "address": "kasur",
+        "id": 14
+      },
+      {
+        "userName": "Faizan",
+        "email": "faizan@gmail.com",
+        "contact": 5658669,
+        "age": 21,
+        "address": "kasur",
+        "id": 15
+      },
+      {
+        "userName": "Akbar",
+        "email": "akbar@gmail.com",
+        "contact": 46568978,
+        "age": 32,
+        "address": "lahore",
+        "id": 16
+      }
+    ]
+  }
